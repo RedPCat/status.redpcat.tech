@@ -2,7 +2,7 @@ title: RedPCat.tech Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://status.redpcat.tech
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
